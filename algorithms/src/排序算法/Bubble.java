@@ -1,11 +1,17 @@
-package Test;
+package 排序算法;
 
-public class Test {
+ 
+/**
+ * @author lbb
+ *
+ */
+public class Bubble {
+	
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		System.out.println("这里是算法基础班");
+
 	}
 
 }
